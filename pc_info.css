@@ -19,3 +19,15 @@ div#info1 {
     top: 20px;
     left: 5%;
 }
+
+div#info2 {
+    display: block;
+    top: 185px;
+    left: 42%;
+}
+
+div#info3 {
+    display: block;
+    top: 135px;
+    left: 75%;
+}
