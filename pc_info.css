@@ -9,3 +9,13 @@ main {
     height: 1400px;
     width: 100%;
 }
+
+div.infobox {
+    position: absolute;
+}
+
+div#info1 {
+    display: block;
+    top: 20px;
+    left: 5%;
+}
