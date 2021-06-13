@@ -1,9 +1,5 @@
 @charset "utf-8";
 
-div.infobox {
-    display: none;
-}
-
 main {
     position: relative;
     height: 1400px;
@@ -48,4 +44,14 @@ div#info6 {
     display: block;
     top: 600px;
     left: 48%;
+}
+div#info7 {
+    display: block;
+    top: 1000px;
+    left: 68%;
+}
+div#info8 {
+    display: block;
+    top: 1100px;
+    left: 12%;
 }
